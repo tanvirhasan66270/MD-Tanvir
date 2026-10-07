@@ -6,12 +6,12 @@
 
 ### 🧭 About Me
 
-* 🏛️ Full-stack developer building enterprise-grade, production-oriented systems — not prototypes[cite: 3]
-* 🎓 MBA and BBA in Management from Gov. Bangla College (DU), plus an IDB-BISEW IT Scholarship covering Java, Spring Boot, Android, and Flutter[cite: 3, 4]
-* 💼 Currently focused on Java + Spring Boot backends paired with Angular admin panels and Android/Flutter mobile clients[cite: 3, 4]
+* 🏛️ Full-stack developer building enterprise-grade, production-oriented systems — not prototypes
+* 🎓 MBA and BBA in Management from Gov. Bangla College (DU), plus an IDB-BISEW IT Scholarship covering Java, Spring Boot, Android, and Flutter
+* 💼 Currently focused on Java + Spring Boot backends paired with Angular admin panels and Android/Flutter mobile clients
 * 🎯 Targeting roles in enterprise and fintech software development
-* 🗣️ Bengali speaker, based in Bangladesh (UTC+06:00)[cite: 4]
-* 🚀 Working end-to-end: database schema → backend services → frontend UI → mobile apps[cite: 3]
+* 🗣️ Bengali speaker, based in Bangladesh (UTC+06:00)
+* 🚀 Working end-to-end: database schema → backend services → frontend UI → mobile apps
 
 ---
 
@@ -50,10 +50,25 @@
 
 ---
 
-### 📂 Featured Projects
+### 📌 Featured Projects
 
-* **Supply Chain Management System (Web, Android & Cross-Platform):** Developed an end-to-end enterprise platform covering Procurement, Import, Inbound Logistics, Quality Control, Inventory, Sales, and Delivery operations using Java, Spring Boot, Angular, TypeScript, MySQL, and Tailwind CSS, along with native Android and Flutter mobile apps[cite: 3, 4].
-  * 🔗 [GitHub Repository](https://github.com/tanvirhasan66270/Supply%20Chain%20Management)[cite: 3, 4]
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 🌐 [Supply-Chain-Management](https://github.com/tanvirhasan66270/Supply%20Chain%20Management) | End-to-end platform covering Procurement, Inventory, QC, Sales, and Delivery operations| `Spring Boot/Angular` |
+| 📱 [SCM-Android-App](https://github.com/tanvirhasan66270/Supply%20Chain%20Management) | Native Android app with REST APIs, JWT authentication, and real-time notifications | `Java/Android` |
+| 📱 [SCM-Flutter-App](https://github.com/tanvirhasan66270/Supply%20Chain%20Management) | Cross-platform mobile app integrated with Spring Boot backend and secure role-based access | `Flutter/Dart` |
+| 🗄️ [dbms](https://github.com/tanvirhasan66270) | Database management system exercises, scripts, and Oracle/MySQL queries | `PL/SQL` |
+| 📐 [UML-Design](https://github.com/tanvirhasan66270) | UML diagrams, system design modeling, and enterprise system analysis scripts | `—` |
+| ☕ [JavaPractice](https://github.com/tanvirhasan66270) | Core Java concepts, data structures exercises, and problem-solving practice | `Java` |
+| 🌐 [js-practice](https://github.com/tanvirhasan66270) | JavaScript fundamentals, TypeScript, and front-end practice exercises | `HTML/JS` |
+
+---
+
+### 🌱 Currently Learning
+
+* Deepening Spring Boot internals — security, transaction management, and event-driven patterns
+* Advanced state management and performance optimization for cross-platform Flutter mobile apps
+* System design for high-integrity, audit-heavy domains like enterprise and fintech applications
 
 ---
 
