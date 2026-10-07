@@ -1,6 +1,16 @@
-# Hi there, I'm Md. Tanvir 👋
+<div align="center">
 
-### 🚀 Full Stack Java Developer
+# Hi, I'm Md. Tanvir 👋
+
+### Full Stack Java Developer
+
+<p>
+  <a href="https://github.com/tanvirhasan66270">
+    <img src="https://img.shields.io/github/followers/tanvirhasan66270?label=Follow&style=social" alt="Followers">
+  </a>
+</p>
+
+</div>
 
 ---
 
